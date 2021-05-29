@@ -49,6 +49,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     ////change 测试一下Git命令使用 123
+    /// hgfghfgf
     // Do any additional setup after loading the view, typically from a nib.
     
     self.imageNameArray = @[@"1.jpg",
